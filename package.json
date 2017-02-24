@@ -1,0 +1,15 @@
+{
+  "name": "electron-diary",
+  "version": "1.0.0",
+  "description": "Desktop diary app.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Lauren Ortencio",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.4.15",
+    "electron-packager": "^8.5.2"
+  }
+}
